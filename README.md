@@ -1,0 +1,1 @@
+# Strawberry-Leaf-Scorch-Detection-using-Vision-Transformer-Models-
